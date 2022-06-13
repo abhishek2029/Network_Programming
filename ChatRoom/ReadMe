@@ -1,1 +1,6 @@
+# this is a simple python chatroom using client and server sides.
 
+#First run the server program. 
+#Then open another terminal and run the client program, where you have to enter your local IP address. 
+
+#That's it. Connection is established between the client and the server and they can now communicate.
